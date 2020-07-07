@@ -16,4 +16,5 @@ Myself, Trilogy Education
 ## License
 MIT
 ## Questions
-Message me on GitHub!
+Please refer to the video demo of this application:
+https://www.loom.com/share/599f8a26de14454d9834e52c9b77c702
