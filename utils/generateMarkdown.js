@@ -17,7 +17,7 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Questions
-  ${data.userQuestions}
+  ${data.projectQuestions}
 `;
 }
 
